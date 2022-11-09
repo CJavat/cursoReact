@@ -1,0 +1,4 @@
+React Icons: Para poder utilizar iconos.
+
+Instalacion:
+npm i react-icons --save
