@@ -2,3 +2,8 @@ React Icons: Para poder utilizar iconos.
 
 Instalacion:
 npm i react-icons --save
+
+UUID: Para generar IDs.
+
+Instalación:
+npm i uuid
