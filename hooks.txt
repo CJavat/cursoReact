@@ -1,0 +1,13 @@
+useState:
+  sintaxis:
+    const [estado, setEstado] = useState(estado-inicial);
+      estado ---------> |nombre del estado| 
+      setEstado ------> |funcion que establece el nuevo valor del estado|
+      useState -------> |hook|
+      estado-inicial -> |el valor inicial del estado|
+
+useEffects: (Se utiliza normalmente para los CRUD)
+  sintaxis:
+    useEffects( () => {}, [] );
+    () => {} --> |funcion flecha|
+    [] --------> |numero de ejecuciones de esa funcion o que otro componente cambie|
